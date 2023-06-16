@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+article{
+    margin: 0 auto;
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.subtitle{
+    margin: auto;
+    font-size: 25px;
+}
+
+.content{
+    margin: 0 auto;
+    width: 1100px;
+    text-align: left;
+
+    font-size: 20px;
+}
+
+.content-text{
+    line-height: 1.5;
+}
+
+.content-list{
+    margin-top: 5px;
+}

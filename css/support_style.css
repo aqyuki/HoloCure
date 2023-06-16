@@ -1,0 +1,25 @@
+.content-head{
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.infomation-list-item{
+    display: flex;
+}
+
+.infomation-list-item-category{
+    display: block;
+    width: 200px;
+    text-align: left;
+}
+
+.infomation-list-item-status{
+    display: block;
+    width: 500px;
+    margin-left: 30px;
+    text-align: left;
+}
+
+.content{
+    margin-top: 30px;
+}
